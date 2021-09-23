@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+#ignore all logs
+*.logs
+
+#ignore 
+/bin
+/lib
+
+*.Python
+*.cfg

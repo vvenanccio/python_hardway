@@ -9,6 +9,7 @@ nao_e = "nao é "
 y = f" Those who know {binario} and those who {nao_e}."
 print(y)
 
+#print
 
 print(f"I said: {x}")
 print(f"E depois eu disse {y}")

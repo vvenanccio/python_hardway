@@ -17,3 +17,4 @@ print(letra)
 
 ## vou substituir o 's por aspas simples
 print("Hello What\'s upp my friend")
+

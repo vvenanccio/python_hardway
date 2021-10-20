@@ -13,3 +13,11 @@ def print_1_de_novo(arg1,arg2):
 
 
 print_1_de_novo("vinicius","venancio")
+
+def one_arg(arg1):
+    print(arg1)
+
+def print_null():
+    print("N é nda")
+
+

@@ -13,7 +13,7 @@ dados = in_file.read()
 print(f"O {from_file} arquivo tem {len(dados)} bytes")
 path_file = "./Templates/"+to_file
 print(path_file)
-print(str(exists(path_file)) + " para a existencia do arquivo" + to_file)
+print(str(exists(path_file)) + " para a existencia do arquivo " + to_file)
 print("Certo ... Para continuar precione enter para sair digite esc")
 
 

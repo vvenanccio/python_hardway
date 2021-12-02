@@ -9,3 +9,7 @@
 *.Python
 *.cfg
 /.vscode
+
+.DS_Store
+
+python_hard_way
